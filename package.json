@@ -1,0 +1,25 @@
+{
+  "name": "dialogflow",
+  "version": "1.0.0",
+  "description": "trial attempt on creating a weather application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oktapodi/ilab-dialogflow/tree/dialogFlowTrial"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Sanjana",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "request": "^2.88.0",
+    "yargs": "^13.2.4"
+  }
+}
